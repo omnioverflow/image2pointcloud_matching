@@ -1,6 +1,10 @@
 # Image to Point Cloud Matching
 
-## Dependencies
+## Installation 
+
+The code is developed and tested with the following dependencies:
+
+* Python 3.9.7
 
 ### Open3d
 
